@@ -8,7 +8,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/HystrixDemoApplication.git
+    git clone https://github.com/iammahesh123/Hystrix-Demo.git
     ```
 
 2. Import the project into your preferred Integrated Development Environment (IDE).
